@@ -1,0 +1,128 @@
+.div
+{
+    height: 800px;
+    width: 100%;
+    background-size: cover;
+    background-image: url("https://todoist.com/_next/static/images/header@2x_b52d8f7c7bf19d6c702569d1072ed6a2.webp");
+}
+.div>div>h1
+{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+}
+.div>div{
+    width: 500px;
+    margin: auto;
+}
+.div>div>button
+{
+    background-color: #e44232;
+    border-radius: 10px;
+    height: 45px;
+    width: 145px;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    font:bold;
+    border: 0px;
+    font-weight: 900;
+    margin-left: 35%;
+}
+.img
+{
+    width: 100%;
+    height: 950px;
+}
+.img>img
+{
+    width: 100%;
+    height: 100%;
+}
+.div2
+{
+    height:180px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: -100px;
+}
+.div2>h1{
+    font-size: 55px;
+    font-weight: 700;
+}
+.div2>p
+{
+    font-size: 23px;
+    line-height: 33px;
+    color:#575757 ;
+    font-family: "Caecilia Web",serif;
+}
+.flex
+{
+    display: flex;
+}
+.flex>div
+{
+    color: #3879fa;
+    margin-left: 15%;
+    font-size: 18px;
+}
+.flex>div:hover
+{
+    text-decoration: underline;
+}
+.yellow
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    height: 350px;
+    width: 100%;
+    background-size:contain;
+    background-image: url("https://todoist.com/_next/static/images/reviews@2x_4876e995d30e1f2f847bb8fde9e0008c.webp");
+}
+.yellow>div
+{
+    margin-left: 10%;
+    width:30% ;
+    margin-top:8%;
+}
+.div3
+{
+    
+    height: 550px;
+    display: flex;
+    width: 100%;
+}
+.div3msg
+{
+    width: 50%;
+}
+.div3msg>h1{
+    margin-top: 10%;
+    margin-left: 20%;
+    font-size: 55px;
+}
+.div3msg>h5{
+    margin-top: 4%;
+    margin-left: 20%;
+    color: #3879fa;
+}
+.div3msg>p{
+    margin-top: 3%;
+    margin-left: 20%;
+    font-size: 20px;
+    text-align: left;
+    line-height: 35px;
+    color:#575757 ;
+
+}
+.div3Img
+{
+    background-size:contain;
+    width: 50%;
+ 
+    background-repeat: no-repeat;
+    background-image: url("https://todoist.com/_next/static/images/mission@2x_14c0f4a5fedd3c66ca5d91982d823c97.webp");
+}

@@ -1,0 +1,16 @@
+.btn
+{
+    margin: 20px;
+    height: 50px;
+    width: 150px;
+    box-shadow: 5px 10px #888888;
+}
+.inp
+{
+    margin: 20px;
+    height: 45px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

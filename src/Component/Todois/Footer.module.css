@@ -1,0 +1,12 @@
+.div
+{
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://todoist.com/_next/static/images/peace@2x_158f4453627629ae1dd3ec115a559630.webp");
+}
+.footer
+{
+    background-color: #faf6eb;
+    position: relative;
+}
